@@ -410,18 +410,26 @@ We would like to express our gratitude to the following sources of inspiration a
 1. Educational Institutions and Teachers:  <br>
 •  Special thanks to the schools and teachers who provided valuable feedback and allowed us to pilot test the system in their classrooms. Your insights have been instrumental in shaping the project. </br>
 3. Open Source Communities:  <br>
-•  We are grateful to the developers and contributors of open-source libraries such as Scikit-learn, TensorFlow, and PyTorch. Your work has provided the foundational tools necessary for building our AI models.  </br>
+•  I'm grateful to the developers and contributors of open-source libraries such as Scikit-learn, TensorFlow, and PyTorch. Your work has provided the foundational tools necessary for building our AI models.  </br>
 4. Research Papers and Publications:  <br>
-•  The research community has been a significant source of inspiration. We have drawn extensively from academic papers on personalized learning, machine learning, and educational technology. </br>
+•  The research community has been a significant source of inspiration. I have drawn extensively from academic papers on personalized learning, machine learning, and educational technology. </br>
 5. Data Sources: <br>
-•  We acknowledge the use of publicly available datasets from platforms like Kaggle and edX. These datasets have been crucial for training and validating our models. </br>
+•  I acknowledge the use of publicly available datasets from platforms like Kaggle [https://www.kaggle.com/datasets](https://www.kaggle.com/datasets), edX [https://www.edx.org/](https://www.edx.org/), coursera [https://www.coursera.org/](https://www.coursera.org/) These datasets have been crucial for training and validating our models. </br>
 6. Creative Commons and Open Source Licenses: <br>
-•  We have used materials under Creative Commons licenses where applicable. </br>
+•  I have used materials under Creative Commons licenses where applicable. </br>
 7. Collaborators and Contributors: <br>
 •  A heartfelt thank you to all the team members, collaborators, and contributors who have dedicated their time and expertise to this project. Your hard work and commitment are deeply appreciated. </br>
 8. Students and Parents: <br>
-•  We extend our gratitude to the students and parents who participated in the pilot programs and provided valuable feedback. Your involvement has been crucial in refining the system to better meet the needs of learners.</br>
+•  I extend my gratitude to the students and parents who participated in the pilot programs and provided valuable feedback. Your involvement has been crucial in refining the system to better meet the needs of learners.</br>
 9. Funding and Support: <br>
-•  We acknowledge the financial support and resources provided by various educational grants and institutions. Your support has enabled us to bring this project to life.</br>
+•  I acknowledge the financial support and resources provided by various educational grants and institutions. Your support has enabled us to bring this project to life.</br>
 
 By recognizing these contributions, we aim to highlight the collaborative effort that has gone into developing the Personalized Learning AI System. Thank you to everyone who has been a part of this journey.
+
+•  Handling Data Imbalance in Machine Learning [https://isi-web.org/sites/default/files/2024-02/Handling-Data-Imbalance-in-Machine-Learning.pdf](https://isi-web.org/sites/default/files/2024-02/Handling-Data-Imbalance-in-Machine-Learning.pdf)
+
+•  Dealing with Imbalanced Datasets in Machine Learning [https://www.blog.trainindata.com/machine-learning-with-imbalanced-data/](https://www.blog.trainindata.com/machine-learning-with-imbalanced-data/)
+
+•  5 Effective Ways to Handle Imbalanced Data in Machine Learning [https://machinelearningmastery.com/5-effective-ways-to-handle-imbalanced-data-in-machine-learning/](https://www.blog.trainindata.com/machine-learning-with-imbalanced-data/)
+
+•  [https://www.planitteachers.ai/articles/personalized-learning-ai-powered-tools](https://www.planitteachers.ai/articles/personalized-learning-ai-powered-tools)
